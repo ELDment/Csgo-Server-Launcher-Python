@@ -57,6 +57,7 @@
 **将下图圈红的地方换成你服务器ip以及端口**<br />
 ![image](https://github.com/ELDment/Csgo-Server-Launcher-Python/blob/main/ScreenShot/GetServer.png)<br />
 ![image](https://github.com/ELDment/Csgo-Server-Launcher-Python/blob/main/ScreenShot/Connect.png)<br />
+这里的双引号，千万千万不要丢！！！！丢了就只会启动游戏，而不会链接社区服务器了！
 ## 报错解决
 **如出现以下报错，说明缺少背景文件【你可以自己制作一个名为Background.png的图像文件，最佳分辨率为300*600】**<br />
 ![image](https://github.com/ELDment/Csgo-Server-Launcher-Python/blob/main/ScreenShot/EB.png)<br />
